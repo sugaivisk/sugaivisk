@@ -1,12 +1,20 @@
-<h1 align="center">Olá 👋, eu sou o Pedro Sugai</h1>
-<h3 align="center">Estou apenas tentando codar</h3>
+<h1>Oi, eu sou o Pedro e seja muito bem-vindo!😄 </h1>
+<h3>No presente momento estou trabalhando nas minhas habilidades em Nuvem.</h3>
+
+<h3>Entre em contato comigo pelo:</h3>
+
+<a href="www.linkedin.com/in/pedrosugai">![image](https://user-images.githubusercontent.com/38026628/192930663-eea25810-dc04-475c-b380-6b5dd6c173b4.png)</a>
+
+<h3>Ferramentas:</h3>
+
+![image](https://user-images.githubusercontent.com/38026628/192930007-47325f55-93d1-4edf-8f76-562f0392ac7d.png) ![image](https://user-images.githubusercontent.com/38026628/192930067-6ff47d80-3499-42ef-9b6b-7fede985eea3.png)![image](https://user-images.githubusercontent.com/38026628/192930216-4eb4d4bf-38b7-4e58-a0c1-9dcd3557542f.png)![image](https://user-images.githubusercontent.com/38026628/192930293-1ed12075-65fc-40e3-bbca-c46645504f32.png)
 
 
 
-<h3 align="left">Você pode entrar em contato comigo através do meu Linkedin📫:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pedrosugai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedrosugai" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Linguagem e ferramentas:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+    
+          
+          
+          
+          
